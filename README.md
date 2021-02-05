@@ -65,7 +65,7 @@ Sign-in and/or Sign-up. There is an admin and user option, each having their own
 
         Administration          | Home Landing     | Team User
        ------------------------- ------------------ ------------
-        Admin HomePage          | Sign-in Button   | User HomePage
+        AdminHomePage           | Sign-in Button   | User HomePage
         AdminProfile            | Sign-up Button   | UserProfile
         GetCardInfo             | Log-out Button   | InitialForm
         TeamList                | Picture Carousel |
