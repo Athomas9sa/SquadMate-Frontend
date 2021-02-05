@@ -90,7 +90,7 @@ Sign-in and/or Sign-up. There is an admin and user option, each having their own
 ## Triumphs
 - The ability to update a Profile Photo.
 - Communication between team when pushing up code from a branch without merge conflicts.
-- Applied the knowledge form the sixteen(16)-week coarse at DigitalCrafts Bootcamp to incorporate that knowledge into using MangoDB Database that was not cover during class period.
+- Applied the knowledge form the sixteen(16)-week coarse at DigitalCrafts Bootcamp to incorporate that knowledge into using MangoDB Database that was not covered during class period.
 
 ## Capstone Project Credits Go To The Following Builders
  
